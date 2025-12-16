@@ -6,7 +6,6 @@
  * SPDX-License-Identifier:	MIT
  */
 #ifdef __UBOOT__
-#include <common.h>
 #include <linux/types.h>
 #else
 #include <string.h>
